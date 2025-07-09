@@ -1,0 +1,21 @@
+/* Custom Tailwind utility extensions */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add custom colors using Tailwind's plugin or just apply manually */
+.custom-bg {
+  background-color: #f5f0eb; /* light beige background */
+}
+
+.text-coffee-brown {
+  color: #4b2e2b; /* dark coffee brown */
+}
+
+.bg-tan {
+  background-color: #d2b48c; /* tan color for navbar */
+}
+
+.bg-light-tan {
+  background-color: #e8ded1; /* story section light tan */
+}
